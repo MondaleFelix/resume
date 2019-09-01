@@ -8,5 +8,5 @@ body {
 img { 
 	height: 256px;
 	width: 256px;
-
+	border: 5px solid black;
 }
